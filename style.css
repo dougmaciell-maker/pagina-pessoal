@@ -1,7 +1,7 @@
 /* Estilização Geral */
 body {
     font-family: Arial, sans-serif;
-    background-color: #99beb8; /* Cor suave para o fundo */
+    background-color: #99beb8; 
     color: #333;
     line-height: 1.6;
     margin: 20px;
@@ -19,14 +19,14 @@ main {
 
 /* Título Principal */
 h1 {
-    color: #01192c; /* Cor diferente para o título */
+    color: #01192c; 
     text-align: center;
     margin-bottom: 20px;
 }
 
 /* Parágrafo de Autobiografia */
 p {
-    font-size: 1.1em; /* Tamanho de fonte maior */
+    font-size: 1.1em; 
     text-align: justify; 
     margin-bottom: 20px;
 }
@@ -39,7 +39,7 @@ ul {
 }
 
 ul li {
-    margin-bottom: 10px; /* Espaçamento maior entre os itens */
+    margin-bottom: 10px; 
 }
 
 /* Imagem do Hobby */
@@ -55,7 +55,7 @@ ul li {
 /* Tabela */
 table {
     width: 100%;
-    border-collapse: collapse; /* Remove espaçamento entre as células */
+    border-collapse: collapse; 
     margin: 20px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -76,7 +76,7 @@ table tr:nth-child(even) {
 }
 
 table img {
-    max-width: 80px; /* Ajusta o tamanho das imagens dentro da tabela */
+    max-width: 80px; 
     height: auto;
     display: block;
     margin: 0 auto;
@@ -85,13 +85,13 @@ table img {
 
 /* Link */
 a {
-    color: #1e90ff; /* Cor padrão do link */
+    color: #1e90ff;
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: #ff4500; /* Muda para Laranja Avermelhado ao passar o mouse */
+    color: #ff4500; 
     text-decoration: underline;
 }
 
@@ -105,7 +105,7 @@ button {
     cursor: pointer;
     font-size: 1em;
     margin-bottom: 15px;
-    display: block; /* Para que o botão ocupe sua própria linha */
+    display: block; 
     margin-left: auto;
     margin-right: auto;
 }
